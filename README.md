@@ -1,2 +1,2 @@
 # hello-world
-This is my starting repository
+This is another repository of hello-world
